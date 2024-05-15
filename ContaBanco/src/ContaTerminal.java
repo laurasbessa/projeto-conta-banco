@@ -20,7 +20,7 @@ public class ContaTerminal {
         int conta = scanner.nextInt();
 
         System.out.println("Digite seu saldo ");
-        float saldo = scanner.nextFloat();
+        double saldo = scanner.nextDouble();
 
         //Obter pela classe Scanner os valores digitados no terminal
 
